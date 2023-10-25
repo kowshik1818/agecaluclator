@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kohli/static/css/main.073c9b0a.css",
+    "main.js": "/kohli/static/js/main.c5d648aa.js",
+    "static/js/787.c887342b.chunk.js": "/kohli/static/js/787.c887342b.chunk.js",
+    "index.html": "/kohli/index.html",
+    "main.073c9b0a.css.map": "/kohli/static/css/main.073c9b0a.css.map",
+    "main.c5d648aa.js.map": "/kohli/static/js/main.c5d648aa.js.map",
+    "787.c887342b.chunk.js.map": "/kohli/static/js/787.c887342b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c5d648aa.js"
+  ]
+}
